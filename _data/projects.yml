@@ -2,15 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+- project: Spring Gaming Platform 
+  role: Developer, Tester and Designer
+  #duration: 2012 &mdash; Present
+  url: "https://spring-gaming-platform-sda.herokuapp.com/"
+  githuburl: "https://github.com/anbrandt/Spring-Gaming-Platform-Project"
+  description: Java browser app that serves a roullette game. This app includes almost all technologies learnt at SDA Java Course - Spring, Hibernate, JUnit, Mockito, Maven, PostgreSQL, Heroku, Bootstrap. Github url :- <a href="https://github.com/anbrandt/Spring-Gaming-Platform-Project">gitub</a>
 
 #Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+- project: Rock Scissors Paper Game
+  role: Developer
+  #duration: 2007 &mdash; Present
+  url: "https://github.com/anbrandt/Rock-Scissors-Paper-Game"
+  description: This simple game is written in traditional OOP style and in MVC design pattern. While the logic game is straight-forward the focus in this taks is all about clean code - clear naming convention and separation of responsibilites. 

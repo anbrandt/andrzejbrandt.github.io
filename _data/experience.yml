@@ -1,19 +1,28 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
-
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
 
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# SDAcedemy
+- company: Software Development Academy
+  position: Java Trainee
+  duration: April, 2017 &mdash; September, 2017
+  summary: Developing applications using Java syntax and various technologies - Hibernate, Spring, SQL, NoSQL, JSP, Servlets. Learning good coding practices under the mentorship from experienced developers. 
+
+
+# SEO/SEM Semahead
+- company: SEO/SEM Agency Semahead - Interia.pl Group
+  position: SEM Specialist
+  duration: March, 2017 &mdash; Present
+  summary: Managing Google Adwords and Google Analytics accounts for dozens of clients on the daily basis. I am responsible for all parts of client SEM presence - starting from strategy, budget estimations and recommendation to setting up accounts from scratch and managing performance of the accounts.<br> Key responsibilites	<ul class="resume-item-list"><li>analyzing performance data</li><li>reporting and handling direct contact with clients</li><li>writing automative scripts</li><li>optimizing accounts performance based on data from several systems</li></ul>
+
+# SEM/SEO Specialist
+- company: Adweb Group - Marketing Agency
+  position: SEM/SEO Specialist
+  duration:  February, 2014 &mdash; March, 2015
+  summary:  Creating and managing SEM and SEO campaigns for variuos B2B clients. Handling contact with client through the whole process, while providing necessary support and recommending new marketing channels including social media. 
+
+
+# Freelance Journalist
+- company: Freelance Journalist
+  position: Sport and Travel Journalist, Editor and Columnist 
+  duration: February, 2011  &mdash; Present
+  summary: Writing, editing and creating content for several sport and travel outlets in Poland, including podroze.onet.pl, Rowertour, Magazyn Bieganie, Traveler, napieraj.pl, festiwalbiegowy.pl. 
