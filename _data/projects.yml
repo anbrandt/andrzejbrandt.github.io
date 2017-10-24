@@ -7,7 +7,7 @@
   #duration: 2012 &mdash; Present
   url: "https://spring-gaming-platform-sda.herokuapp.com/"
   githuburl: "https://github.com/anbrandt/Spring-Gaming-Platform-Project"
-  description: Java browser app that serves a roullette game. This app includes almost all technologies learnt at SDA Java Course - Spring, Hibernate, JUnit, Mockito, Maven, PostgreSQL, Heroku, Bootstrap. Github url :- <a href="https://github.com/anbrandt/Spring-Gaming-Platform-Project">gitub</a>
+  description: Java browser app that serves a roullette game. This app includes almost all technologies learnt at SDA Java Course - Spring, Hibernate, JUnit, Mockito, Maven, PostgreSQL, Heroku, Bootstrap. <a href="https://github.com/anbrandt/Spring-Gaming-Platform-Project">GitHub Source Code</a>
 
 #Springfield Donut Eater's User Group
 - project: Rock Scissors Paper Game

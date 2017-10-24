@@ -1,15 +1,15 @@
 # Skills
 # Core Java Skills
 - skill: Core Java 
-  description: Data structures, OOP principles, concurrency, JVM, design patterns, servlets, JSP,  Git, IntelliJ Idea, Maven 
+  description: Data structures, OOP principles, concurrency, JVM, design patterns, servlets, JSP,  Git, IntelliJ Idea, Maven, JUnit, Mockito, Java 8 
 
 # Craft beer brewing
 - skill: SQL and NoSQL technologies
-  description: MySQL, PostgreSQL and MongoDB database managment, , bottle label design, festival and event management
+  description: MySQL, PostgreSQL and MongoDB database managment
 
 # Family leadership
 - skill: Spring Framework
-  description: Setting up and bulding web applications, Spring Data, Spring Security, TV longevity testing
+  description: Setting up and bulding web applications, Spring Data, Spring Security
 
 # Languages
 - skill: Lanugages
